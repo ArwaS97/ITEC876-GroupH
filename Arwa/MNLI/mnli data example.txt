@@ -1,0 +1,11 @@
+{"annotator_labels": ["neutral", "entailment", "neutral", "neutral", "neutral"], 
+"genre": "slate", 
+"gold_label": "neutral", 
+"pairID": "63735n", 
+"promptID": "63735", 
+"sentence1": "The new rights are nice enough", 
+"sentence1_binary_parse": "( ( The ( new rights ) ) ( are ( nice enough ) ) )", 
+"sentence1_parse": "(ROOT (S (NP (DT The) (JJ new) (NNS rights)) (VP (VBP are) (ADJP (JJ nice) (RB enough)))))", 
+"sentence2": "Everyone really likes the newest benefits ", 
+"sentence2_binary_parse": "( Everyone ( really ( likes ( the ( newest benefits ) ) ) ) )", 
+"sentence2_parse": "(ROOT (S (NP (NN Everyone)) (VP (ADVP (RB really)) (VBZ likes) (NP (DT the) (JJS newest) (NNS benefits)))))"}
