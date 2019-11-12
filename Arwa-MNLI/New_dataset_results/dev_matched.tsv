@@ -1,0 +1,31 @@
+index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	sentence1_parse	sentence2_parse	sentence1	sentence2	label1	label2	label3	label4	label5	gold_label
+1	-	-	-	-	-	-	-	i like him a lot	I don't like him that much. 	-	-	-	-	-	contradiction
+2	-	-	-	-	-	-	-	i hate him more than you do 	You don't know him like I do. 	-	-	-	-	-	neutral
+3	-	-	-	-	-	-	-	i'm trying my best	I'm doing my best. 	-	-	-	-	-	entailment
+4	-	-	-	-	-	-	-	this doesn't seem to be working	It never works for me. 	-	-	-	-	-	neutral
+5	-	-	-	-	-	-	-	this is harder than I thought. 	This is easier than I thought. 	-	-	-	-	-	contradiction
+6	-	-	-	-	-	-	-	i can't believe they asked us to do something like this. 	It's going to take a long time. 	-	-	-	-	-	neutral
+7	-	-	-	-	-	-	-	i don't know what i'm doing. 	I know exactly what I am doing.	-	-	-	-	-	contradiction
+8	-	-	-	-	-	-	-	this is going to take a long time. 	This will take forever. 	-	-	-	-	-	entailment
+9	-	-	-	-	-	-	-	they always do this to me. 	This never happens to me. 	-	-	-	-	-	contradiction
+10	-	-	-	-	-	-	-	i have a headache. 	It's not getting any better. 	-	-	-	-	-	neutral
+11	-	-	-	-	-	-	-	i've got a project due this weekend. 	Can't wait for it to finish. 	-	-	-	-	-	neutral
+12	-	-	-	-	-	-	-	He's got the presentation due next weekend. 	It's due right after yours. 	-	-	-	-	-	entailment
+13	-	-	-	-	-	-	-	I don't understand what you're saying. 	I don't understand what you said. 	-	-	-	-	-	entailment
+14	-	-	-	-	-	-	-	You make no sense. 	You make perfect sense. 	-	-	-	-	-	contradiction
+15	-	-	-	-	-	-	-	It's hard to believe. 	I don't believe you. 	-	-	-	-	-	entailment
+16	-	-	-	-	-	-	-	The sky is falling. 	The sky is not falling. 	-	-	-	-	-	contradiction
+17	-	-	-	-	-	-	-	I'm getting really bored of that. 	This is exciting. 	-	-	-	-	-	contradiction
+18	-	-	-	-	-	-	-	This is so time-consuming. 	It's going to take a while for everything to load. 	-	-	-	-	-	neutral
+19	-	-	-	-	-	-	-	He is a really hard-working guy. 	He always does all the work. 	-	-	-	-	-	neutral
+20	-	-	-	-	-	-	-	She is really annoying.	I don't like her. 	-	-	-	-	-	neutral
+21	-	-	-	-	-	-	-	This is a very large room. 	There's a big room here.  	-	-	-	-	-	entailment
+22	-	-	-	-	-	-	-	"I keep trying and trying, but I'm going nowhere. "	It's difficult to make good progress. 	-	-	-	-	-	neutral
+23	-	-	-	-	-	-	-	Bring your passport tomorrow. 	We need your passport to apply for the visa. 	-	-	-	-	-	entailment
+24	-	-	-	-	-	-	-	I can't write anymore because my hand hurts. 	I can keep writing. 	-	-	-	-	-	contradiction
+25	-	-	-	-	-	-	-	I hate group assignments. 	I love group assessments. 	-	-	-	-	-	contradiction
+26	-	-	-	-	-	-	-	Paper is better than plastic. 	Plastic is bad for the environment.  	-	-	-	-	-	neutral
+27	-	-	-	-	-	-	-	Assuming makes an ass out of you and me. 	You shouldn't make assumptions. 	-	-	-	-	-	neutral
+28	-	-	-	-	-	-	-	It's important to keep yourself organised. 	Keeping a journal will help you organise your day. 	-	-	-	-	-	entailment
+29	-	-	-	-	-	-	-	I'm getting to the end of this list. 	I'm only getting started. 	-	-	-	-	-	contradiction
+30	-	-	-	-	-	-	-	You will be missed. 	We will miss you. 	-	-	-	-	-	entailment
